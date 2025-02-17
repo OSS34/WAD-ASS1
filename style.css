@@ -1,0 +1,12 @@
+body{
+    background-color: yellow;
+}
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.navbar{
+    background-color: yellow;
+}
+.carousel-item{
+    background-color: yellow;
+}
